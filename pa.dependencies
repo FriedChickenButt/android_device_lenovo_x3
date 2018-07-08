@@ -1,0 +1,14 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "Alucard-Storm/android_vendor_lenovo_x3",
+        "target_path":  "vendor/lenovo/x3",
+        "revision":     "master"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Alucard-Storm/android_kernel_lenovo_msm8992",
+        "target_path":  "kernel/lenovo/x3",
+        "revision":     "master"
+    }
+]
